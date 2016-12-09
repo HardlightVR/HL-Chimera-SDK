@@ -1,4 +1,5 @@
 To install the NullSpace Service:
+
 1. Open `NullSpaceVR Service Installer` folder
 2. Double click `setup.exe` which will install the service and required dependencies:
 	- Microsoft .NET Framework 4.5 
@@ -13,7 +14,7 @@ To install the NullSpace Service:
 To uninstall:
 1. Add/Remove programs --> NSVRServiceSetup -> Uninstall
 
-**Note: the service must be running for the NullSpace SDK to function.**
+**Note: the service must be running for effects to play on the suit.**
 
 See the [Wiki](https://github.com/NullSpaceVR/NullSpace-Dev-Kit/wiki) for common issues, quickstart, and SDK usage.
 
