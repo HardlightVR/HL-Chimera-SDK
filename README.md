@@ -12,6 +12,7 @@ To install the NullSpace Service:
     - Quit (disables the service)
 
 To uninstall:
+
 1. Add/Remove programs --> NSVRServiceSetup -> Uninstall
 
 **Note: the service must be running for effects to play on the suit.**
