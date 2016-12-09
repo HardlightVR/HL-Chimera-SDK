@@ -17,7 +17,7 @@ To uninstall:
 
 **Note: the service must be running for effects to play on the suit.**
 
-See the [Wiki](https://github.com/NullSpaceVR/NullSpace-Dev-Kit/wiki) for common issues, quickstart, and SDK usage.
+See the [Wiki](https://github.com/NullSpaceVR/NullSpace-Chimera-SDK/wiki) for common issues, quickstart, and SDK usage.
 
 See the [Developer Agreement](http://nullspacevr.com/?wpdmpro=nullspace-developer-agreement) before using the SDK.
 
