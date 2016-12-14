@@ -6,7 +6,7 @@ To install the NullSpace Service:
 	- Visual C++ 2015 Redistributable (x64)
 	(If the dependencies fail to install, try installing them directly from the relevant folders included with the download. Then double click `NSVRServiceSetup.msi` to install the service)
 3. Double click the `NullSpace Service` icon on your Desktop. A small icon will appear in your task tray. Right click the icon to:
-    - Enable the service (icon turns green)
+    - Enable the service (icon turns green, electricity icon appears if suit connected)
     - Disable the service (icon turns grey)
     - Quit (disables the service)
 
