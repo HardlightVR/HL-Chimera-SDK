@@ -19,7 +19,7 @@ To uninstall:
 
 See the [Wiki](https://github.com/NullSpaceVR/NullSpace-Chimera-SDK/wiki) for common issues, quickstart, and SDK usage.
 
-See the [Developer Agreement](http://nullspacevr.com/?wpdmpro=nullspace-developer-agreement) before using the SDK.
+See the [Developer Agreement](http://www.hardlightvr.com/wp-content/uploads/2017/01/NullSpace-SDK-License-Rev-3-Jan-2016-2.pdf) before using the SDK.
 
 
 If you have questions about how to use the API, or comments, feedback, bugs, crashes, annoyances, or improvements, please email casey@nullspacevr.com
