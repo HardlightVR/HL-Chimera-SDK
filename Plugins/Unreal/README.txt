@@ -54,7 +54,9 @@ To check if the service is running, use the BP node Is Connected To Service.
 
 Haptics Quickstart
 ------------------
-Create BP node 'Create Pattern Handle', select any pattern asset you want as input to the node, then drag out BP node 'Play'. Play the game.
+Create the Blueprint node 'Create and Play Pattern'.
+Attach the new node to a gameplay circumstance, such as overlapping a trigger. 
+Select any premade pattern as input, and play the game. 
 See Haptics Theory for what this means or how to view the assets.
 
 
