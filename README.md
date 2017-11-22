@@ -1,10 +1,11 @@
 To install the Hardlight Runtime:
 
-1. Open `Runtime Installer` folder
-2. Double click `HardlightRuntimeInstaller[version].exe` which will install the runtime and required dependencies.
+1. Close any games using the Hardlight SDK, and quit any existing Runtimes
+2. Open `Runtime Installer` folder
+3. Double click `HardlightRuntimeInstaller[version].exe` which will install the runtime and required dependencies.
 4. If you are upgrading from a previous version, or uninstalling, note that you may have to quit HardlightControl manually if the installer is
 unable to terminate it.
-3. Open HardlightControl.exe, located at (Windows key -> "Recently Added") or in the install directory. A small icon will appear in your task tray. Right click the icon to:
+5. Open HardlightControl.exe, located at (Windows key -> "Recently Added") or in the install directory. A small icon will appear in your task tray. Right click the icon to:
     - Enable the runtime (may take up to 3 seconds for icon to turn green, meaning the runtime is enabled)
     - Disable the runtime (may take up to 3 seconds for icon to turn white, meaning the runtime is disabled)
     - Enable or disable analog audio mode
