@@ -1,3 +1,9 @@
+# HL Chimera SDK
+
+Distribution for the Hardlight Software Development Kit, windows service, and libraries. A download and install of this repository is all that is required to run a Hardlight suit given a compatible game.
+
+## Instructions:
+
 To install the Hardlight Runtime:
 
 1. Close any games using the Hardlight SDK, and quit any existing Runtimes
@@ -14,11 +20,11 @@ unable to terminate it.
     - Check version of the Runtime
     - Fetch updates for the Runtime
 
-To uninstall:
+### To uninstall:
 
 1. Add/Remove programs --> Hardlight Runtime -> Uninstall
 
-To upgrade:
+### To upgrade:
 
 1. Right click on HardlightControl -> Updates -> Check now
 
@@ -26,9 +32,8 @@ To upgrade:
 
 See the [Wiki](https://github.com/NullSpaceVR/NullSpace-Chimera-SDK/wiki) for common issues, quickstart, and SDK usage.
 
-See the [Developer Agreement](http://www.hardlightvr.com/wp-content/uploads/2017/01/NullSpace-SDK-License-Rev-3-Jan-2016-2.pdf) before using the SDK.
+## Please note:
+Hardlight VR was a complex project involving many dependencies. We have decided to open the code in the hopes that others may make use of the tools and plugins we built over the last 5 years. However, some software may not have been built or tested in some time, and may require changes to be used with the latest VR software and technology. 
 
-
-If you have questions about how to use the API, or comments, feedback, bugs, crashes, annoyances, or improvements, please email casey@nullspacevr.com
-
-Thanks! 
+## Contributing and Contact
+We welcome any and all interest in derivative projects made from this software, edits to the software, and updates to the plugins and drivers! If you are interested in contributing to the public Hardlight repositories, please create an issue, or email hardlightvr@gmail.com. 
